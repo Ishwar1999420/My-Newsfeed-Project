@@ -1,0 +1,34 @@
+.container-items{
+    background-color:rgb(158, 153, 153);
+    width: 100%;
+    /* margin-left:1rem; */
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+#news-feed{
+    display:inline-block;
+    margin:0 .5rem 0 .5rem;
+    color: #fff;
+    background-color: #000;
+    width: 16rem;
+    border-radius: 8px;
+}
+#saved-news{
+    display:inline-block;
+    color: black;
+    background-color:goldenrod;
+    width: 16rem;
+    border-radius: 8px;
+    }
+    .save{
+        font-size: 2rem;
+        margin-top: 2rem;
+        background-color: lightgray;
+        padding: 30px;
+        border-radius: 8px;
+
+    }
+    span{
+        color:red;
+        float: right;
+    }
